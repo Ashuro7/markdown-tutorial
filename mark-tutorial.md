@@ -20,7 +20,7 @@ A list can be created simply by having a dash "-" and then a space, before the l
 
 ## Checklist
 - [ ] An unchecked item in the checklist. It starts with a "-" then a space, then square brackets with space between them. This is unchecked.
-- [ x ] A checked item in the checklist. It starts with a "-" then a space, then square brackets with an "x/X" between them.
+- [x] A checked item in the checklist. It starts with a "-" then a space, then square brackets with an "x/X" between them.
 
 ## Quote Blocks
 > Quote blocks are achieved by having a ">" before the line.
