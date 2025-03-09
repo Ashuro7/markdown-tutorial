@@ -52,7 +52,9 @@ As shown, "---" gets you a line like above
 
 ## Tables
 
-| Name | Age |
-|----:|:----|
-|Ash | 20  |
-|Gilgamesh| 19  |
+Columns are separated by a pipe "|". The column headers and the data rows is separated by three dashes "---". Dashes aren't required to separate each individual "data rows". Colons ":" to either or both side of the three dashes define the alignment (Left, Right, Centre)
+
+| Name | Age | Email |
+|----:|:----|:---|
+|Ash | 20  | as@gmai.com|
+|Gilgamesh| 19  | gil@gmail.com|
