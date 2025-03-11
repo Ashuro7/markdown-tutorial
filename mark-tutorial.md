@@ -19,7 +19,7 @@ A list can be created simply by having a dash "-" and then a space, before the l
 - subscript<sub>2</sub> : Cannot be done in standard or github markdown but can be achieved using the "sub" HTML tag.
 
 ## Checklist
-- [ ] An unchecked item in the checklist. It starts with a "-" then a space, then square brackets with space between them. This is unchecked.
+- [ ] An unchecked item in the checklist. It starts with a "-" then a space, then square brackets with space between them.
 - [x] A checked item in the checklist. It starts with a "-" then a space, then square brackets with an "x/X" between them.
 
 ## Quote Blocks
